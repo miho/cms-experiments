@@ -1,0 +1,157 @@
+[
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/asdf.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/asdf.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/asdf.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/render.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/render.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/render.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/file_io.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/file_io.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/file_io.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/triangulate.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/triangulate.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/triangulate.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/import.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/import.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/import.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/cache.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/cache.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/cache.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/neighbors.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/neighbors.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/neighbors.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/contour.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/contour.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/contour.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/distance.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/distance.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/distance.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/asdf/cms.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/asdf/cms.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/asdf/cms.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/eval.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/eval.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/eval.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/render.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/render.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/render.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/tree.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/tree.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/tree.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/packed.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/packed.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/packed.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/parser.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/parser.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/parser.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/math/math_f.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/math/math_f.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/math/math_f.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/math/math_i.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/math/math_i.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/math/math_i.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/math/math_r.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/math/math_r.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/math/math_r.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/node/node.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/node/node.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/node/node.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/node/opcodes.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/node/opcodes.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/node/opcodes.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/node/printers.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/node/printers.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/node/printers.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/tree/node/results.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/tree/node/results.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/tree/node/results.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/cam/toolpath.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/cam/toolpath.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/cam/toolpath.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/cam/distance.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/cam/distance.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/cam/distance.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/cam/slices.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/cam/slices.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/cam/slices.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/formats/png_image.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/formats/png_image.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/formats/png_image.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/formats/stl.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/formats/stl.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/formats/stl.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/formats/mesh.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/formats/mesh.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/formats/mesh.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/util/region.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/util/region.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/util/region.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/util/vec3f.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/util/vec3f.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/util/vec3f.c"
+},
+{
+  "directory": "/Users/miho/installs/kokopelli/tmp/libfab",
+  "command": "/usr/bin/gcc  -Dfab_EXPORTS -Wall -g -fPIC -pedantic -std=gnu99 -O3 -D '_STATIC_=static' -fPIC -I/usr/local/include -I/Users/miho/installs/kokopelli/tmp/libfab/.    -o CMakeFiles/fab.dir/util/path.c.o   -c /Users/miho/installs/kokopelli/tmp/libfab/util/path.c",
+  "file": "/Users/miho/installs/kokopelli/tmp/libfab/util/path.c"
+}
+]
