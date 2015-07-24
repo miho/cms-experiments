@@ -8,8 +8,8 @@ set(CMAKE_C_FLAGS "-Wall -g -fPIC -pedantic -std=gnu99")
 set(CMAKE_C_FLAGS_RELEASE  "-O3 -D '_STATIC_=static'")
 set(CMAKE_C_FLAGS_DEBUG    "-O0 -D '_STATIC_= '")
 
-find_package(PNG REQUIRED)
-include_directories(${PNG_INCLUDE_DIR})
+# find_package(PNG REQUIRED)
+# include_directories(${PNG_INCLUDE_DIR})
 find_library(M_LIB m)
 
 include_directories(.)
@@ -31,7 +31,9 @@ add_library(fab SHARED
 
     cam/toolpath.c cam/distance.c cam/slices.c
 
-    formats/png_image.c formats/stl.c formats/mesh.c
+    # formats/png_image.c
+    formats/stl.c
+    formats/mesh.c
 
     util/region.c util/vec3f.c util/path.c
 )
