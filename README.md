@@ -1,7 +1,6 @@
 # cms-experiments
 
-Cubical Marching Cubes Experiments
-
+Cubical Marching Squares Experiments
 
 Uses CMS from https://github.com/mkeeter/kokopelli/tree/master/libfab
 
